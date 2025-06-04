@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/index.html</loc>
-    <lastmod>2024-11-27T19:22:27.229Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/transition-from-rmarkdown.html</loc>
+    <lastmod>2025-06-04T21:04:58.914Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
-    <lastmod>2024-11-27T19:22:27.261Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/quarto-workflows/browser.html</loc>
+    <lastmod>2025-06-04T21:04:58.884Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/browser.html</loc>
-    <lastmod>2024-11-27T19:22:27.229Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/quarto-workflows/index.html</loc>
+    <lastmod>2025-06-04T21:04:58.914Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/transition-from-rmarkdown.html</loc>
-    <lastmod>2024-11-27T19:22:27.261Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/contact.html</loc>
+    <lastmod>2025-06-04T21:04:58.861Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/learning-more.html</loc>
-    <lastmod>2024-11-27T19:22:27.229Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/index.html</loc>
+    <lastmod>2025-06-04T21:04:58.884Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/rstudio.html</loc>
-    <lastmod>2024-11-27T19:22:27.261Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/team.html</loc>
+    <lastmod>2025-06-04T21:04:58.914Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
-    <lastmod>2024-11-27T19:22:27.261Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/explore.html</loc>
+    <lastmod>2025-06-04T21:04:58.861Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/explore.html</loc>
-    <lastmod>2024-11-27T19:22:27.205Z</lastmod>
+    <loc>https://thefaylab.github.io/frame/quarto-workflows/rstudio.html</loc>
+    <lastmod>2025-06-04T21:04:58.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/frame/quarto-workflows/jupyter.html</loc>
+    <lastmod>2025-06-04T21:04:58.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.github.io/frame/learning-more.html</loc>
+    <lastmod>2025-06-04T21:04:58.884Z</lastmod>
   </url>
 </urlset>
