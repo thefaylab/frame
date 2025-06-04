@@ -1,5 +1,6 @@
 ---
 title: "Flounder Research for Actionable Management and Engagement"
+subtitle: "DISES: Dynamics of socio-environmental factors driving resilience of coastal fisheries: integrating feedbacks between livelihoods, human behavior, climate, and fish ecology"
 ---
 
 ## Welcome {#welcome}
