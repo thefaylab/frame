@@ -1,46 +1,17 @@
 ---
-title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+title: "Flounder Research for Actionable Management and Engagement"
 ---
 
 ## Welcome {#welcome}
 
-It's possible to create beautiful documentation to share online with [Quarto](https://quarto.org) that auto-updates with [GitHub](http://github.com). This is very new and incredibly cool. This tutorial is an example of a quarto website --- it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.
+Welcome to the project website for [NSF Award \# 2408987](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408987)
 
-Creating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that's where we'll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout.
+*DISES: Dynamics of socio-environmental factors driving resilience of coastal fisheries: integrating feedbacks between livelihoods, human behavior, climate, and fish ecology*
 
-## What is Quarto?
+Principal Investigator: Dr. Holly Kindsvater, Virginia Tech
 
-Quarto helps you have your ideas and your code in one place, and present it in a beautiful way. 
+### Project overview
 
-**Quarto unifies and extends the RMarkdown ecosystem** - it unifies by combining the functionality of R Markdown, bookdown, distill, xaringian, etc into a single consistent system. And it extends in several ways: all features are possible beyond R too, including Python and Javascript. It also has more “guardrails”: accessibility and inclusion are centered in the design. Quarto is for people who love RMarkdown, and it's for people who have never used RMarkdown. 
- 
+The recreational and commercial fisheries for summer flounder (*Paralichthys dentatus*) produce hundreds of millions of dollars in revenue to coastal economies in the mid-Atlantic and Northeast US. Recent changes in geographic distribution and dramatic fluctuations in the productivity of summer flounder, as a result of climate change and intense fishing pressure, have directly affected charter-boat captains, commercial seafood fishers, processors, dealers, and recreational fishers. Little is known about the behavioral and economic responses of policy makers and fishers to fluctuations in abundance and the total allowable catch. There has been a general movement in flounder abundance from south to north along the Atlantic coast in recent years, and this migration provides a rich opportunity to determine in detail the feedbacks between climate, fish ecology, policy regulations, and fishers who rely on summer flounder for their livelihoods, nutrition, and recreation This research will help to develop recommendations for policy solutions that meet multiple sustainability benchmarks, such as ecological sustainability, nutritional provisioning, and economic sustainability.
 
-The ability for Quarto to streamline collaboration has been so cool and important for our [NASA Openscapes](https://nasa-openscapes.github.io/) project. Quarto has been a common place for us to collaborate - across R and Python languages and coding expertise. 
-
-## What is this tutorial?
-
-This is a 1-hour tutorial that can be used to teach or as self-paced learning. 
-
-We introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.
-
-We'll start off from the browser so you don't need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don't already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don't need to know R to use RStudio, and it has powerful editor features that make for happy workflows.
-
-[Quarto.org](https://quarto.org) is the go-to place for full documentation and more tutorials! 
-
-## Example Quarto sites
-
-A few Quarto websites from Openscapes - so far we have been using Quarto for documentation using Quarto and Markdown files and Jupyter Notebooks.
-
--   [Champions Lessons Series](https://openscapes.github.io/series)
--   [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/)
--   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
--   [2021 NASA Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/)
--   [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/)
--   [A Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/), by Mine Çetinkaya-Rundel
-
-## About
-
-[Openscapes](https://openscapes.org) is about better science for future us. We help researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams as part of the broader global open movement.
-
-We're developing this tutorial to help folks with different levels of technical skills use [Quarto](https://quarto.org) for documentation and tutorial building. This tutorial was originally created for several different audiences: [NASA-Openscapes](https://nasa-openscapes.github.io) researcher support engineers using Python, communications directors at organizations promoting open science who do not identify as coders, and fisheries scientists curious about transitioning from RMarkdown. We're hoping it's useful to folks with backgrounds as wide as these; if you find it useful or have suggestions for improvement, please let us know by clicking "Edit this page" or "Report an issue" at the upper right side of any page.
+This project will address the interactions between fish abundance, limits on allowable catch, and fish ecology from four perspectives. (1) Social scientists will use panel surveys and in-person interviews, working with community partners, to identify the fishery?s ecosystem services, its influence on human well-being, and how these have been altered as waters have warmed and the population distribution has changed. A key goal is to determine how recreational anglers have responded to recent management actions put in place in response to the changes in flounder ecology. Attitudes toward the fairness of management and level of compliance could potentially reveal aspects of angler behavior that are currently unknown to management agencies and could explain recent struggles to manage the resource effectively. (2) Economists will use analysis of contributions of the commercial flounder fishery to coastal economies to understand the consequences of changes in management. Instability in the annual flounder catch limit due to changes in flounder abundance, as well as a mismatch between historic policy and the current distribution of flounder, have changed the economic contributions of the resource. This research will better illuminate how policymakers can manage the fishery to promote resilience in both human and ecological communities. (3) Climate scientists will determine the mechanisms linking climate and oceanographic variables to population dynamics of summer flounder using existing data on relative flounder abundance and ocean conditions. This research will investigate how variable oceanic conditions determine annual variability of juvenile flounder numbers, which will reveal how climate-driven changes in oceanography affect population ecology. (4) An advisory committee with representatives from state and federal entities involved in coastal fisheries will meet each year to synthesize the social and economic data with the results from the climate analyses. These meetings will lead to predictions of the responses of this multi-faceted system under future scenarios of climate change.

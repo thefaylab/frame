@@ -3,46 +3,37 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  title: "Flounder Research for Actionable Management and Engagement" 
+  site-url: "https://thefaylab.github.io/frame" 
+  repo-url: https://github.com/thefaylab/frame 
   repo-actions: [edit, issue]
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2024"
+    left: "&copy; CC-By TheFayLab, 2025; Openscapes, 2024"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/frame-temp-logo.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://thefaylab.github.io/frame
+        text: "FRAME"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
-
+        href: https://github.com/thefaylab/frame
+        text: "website"
+      
     style: "docked"
     search: true
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Welcome
-      - explore.qmd
-      - section: quarto-workflows/index.qmd
-        contents: 
-          - quarto-workflows/browser.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
-
+        text: About
+      - href: team.qmd
+        text: Team
+      - href: contact.qmd
+        text: Contact Us
 
 format:
   html:

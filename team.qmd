@@ -1,0 +1,39 @@
+---
+title: "Project Team"
+---
+
+## Project Team {#team}
+
+#### Virginia Polytechnic Institute & State University
+
+-   Mary Adebote
+
+-   Akea Cader
+
+-   Hailey Conrad
+
+-   Willandia Chaves (co-PI)
+
+-   Fernando Gonçalves (co-PI)
+
+-   **Holly Kindsvater (PI)**
+
+-   Craig Ramseyer (co-PI)
+
+-   Jonathan van Senten
+
+-   Michael Sorice
+
+#### University of Massachusetts Dartmouth
+
+-   Gavin Fay (co-PI)
+
+-   Kamran Walsh
+
+-   Sophie Wulfing
+
+#### Mid-Atlantic Fishery Management Council
+
+-   Hannah Hart
+
+-   Brandon Muffley
