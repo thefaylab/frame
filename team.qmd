@@ -1,7 +1,3 @@
----
-title: "Project Team"
----
-
 ## Project Team {#team}
 
 #### Virginia Polytechnic Institute & State University
