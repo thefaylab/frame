@@ -1,6 +1,6 @@
 # Flounder Research for Actionable Management and Engagement
 
-Project website for NSF Award # 2408987
+Project website for [NSF Award # 2408987](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408987)
 
 DISES: Dynamics of socio-environmental factors driving resilience of coastal fisheries: integrating feedbacks between livelihoods, human behavior, climate, and fish ecology
 
